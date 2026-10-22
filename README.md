@@ -26,7 +26,6 @@ Nexus s'occupe du reste :
 - **Plusieurs agents en même temps**, sur plusieurs projets, avec une carte qui montre qui fait quoi.
 - **À la voix ou au clavier**, sur l'ordinateur ou sur votre téléphone.
 - **Pour tout ce qui se fait sur un ordinateur** : sites web, documents, code, e-mails, veille dans votre domaine…
-- **Gestion** : clients, projets, revenus...
 
 ## Pourquoi Nexus
 
@@ -36,7 +35,6 @@ Nexus s'occupe du reste :
 | Copier-coller les réponses dans vos fichiers | Le travail est fait directement dans une copie de votre projet |
 | Vérifier vous-même chaque réponse | Une deuxième IA relit avant vous |
 | Le risque de tout casser | Rien ne change sans votre validation, et tout peut être annulé |
-| Limite atteinte très rapidement | Optimisation de tokens, limite quasi illimité |
 
 ## Essai gratuit de 7 jours
 
@@ -63,6 +61,8 @@ Paiement sécurisé par Stripe, facture par e-mail. Les abonnements aux IA (Clau
 | **Mac Apple Silicon** (M1, M2, M3, M4) | [Nexus-Mac-Apple-Silicon.tar.gz](https://github.com/Anonymous730/nexus/releases/latest/download/Nexus-Mac-Apple-Silicon.tar.gz) |
 | **Mac Intel** | [Nexus-Mac-Intel.tar.gz](https://github.com/Anonymous730/nexus/releases/latest/download/Nexus-Mac-Intel.tar.gz) |
 | **Linux** (x64) | [Nexus-Linux.tar.gz](https://github.com/Anonymous730/nexus/releases/latest/download/Nexus-Linux.tar.gz) |
+
+**Notice d'utilisation** : [en français (PDF)](https://github.com/Anonymous730/nexus/releases/latest/download/Notice-Nexus-FR.pdf) · [in English (PDF)](https://github.com/Anonymous730/nexus/releases/latest/download/Nexus-User-Guide-EN.pdf)
 
 Toutes les versions sont dans **[Releases](https://github.com/Anonymous730/nexus/releases)**.
 
