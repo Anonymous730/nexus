@@ -26,6 +26,7 @@ Nexus s'occupe du reste :
 - **Plusieurs agents en même temps**, sur plusieurs projets, avec une carte qui montre qui fait quoi.
 - **À la voix ou au clavier**, sur l'ordinateur ou sur votre téléphone.
 - **Pour tout ce qui se fait sur un ordinateur** : sites web, documents, code, e-mails, veille dans votre domaine…
+- **Gestion** : clients, projets, revenus...
 
 ## Pourquoi Nexus
 
@@ -35,6 +36,7 @@ Nexus s'occupe du reste :
 | Copier-coller les réponses dans vos fichiers | Le travail est fait directement dans une copie de votre projet |
 | Vérifier vous-même chaque réponse | Une deuxième IA relit avant vous |
 | Le risque de tout casser | Rien ne change sans votre validation, et tout peut être annulé |
+| Limite atteinte très rapidement | Optimisation de tokens, limite quasi illimité |
 
 ## Essai gratuit de 7 jours
 
